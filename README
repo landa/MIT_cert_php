@@ -1,0 +1,12 @@
+Written by Yafim Landa for my MIT 6.470, IAP '11 PHP Lecture given on
+1/5/2010. Please feel free to improve on it. Please keep in mind that
+this file was written for pedagogical reasons.
+
+This script authenticates a user using MIT certificates. writes user
+data to a database, and so it requires that a database.php file exist
+that establishes a connection to a database.
+
+I've included links to CSS, JavaScript, and favicon files so that 6.470
+students wouldn't have to look up how to include these files. If you plan
+to use this script for authentication, you probably want to take those out
+of the <head> or replace them with your own.
