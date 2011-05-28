@@ -5,7 +5,7 @@
   1/5/2010. Please feel free to improve on it. Please keep in mind that
   this file was written for pedagogical reasons.
 
-  This script authenticates a user using MIT certificates. writes user
+  This script authenticates a user using MIT certificates. It writes user
   data to a database, and so it requires that a database.php file exist
   that establishes a connection to a database.
 
